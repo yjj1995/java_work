@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086ec545-dd4e-4c6f-8f70-47df471e9fdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Yjj\.m2\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\Yjj\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1VxU49D4zYTqvO4FJMYSWTW2xOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086ec545-dd4e-4c6f-8f70-47df471e9fdf" name="Default Changelist" comment="" />
+      <created>1578194045626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578194045626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2150" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578194252603">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2150" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194252603" />
+    <state x="2546" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578194067882">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2546" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194067882" />
+    <state x="2475" y="171" key="FileChooserDialogImpl" timestamp="1578194578805">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2475" y="171" key="FileChooserDialogImpl/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194578805" />
+    <state x="2379" y="58" width="981" height="707" key="SettingsEditor" timestamp="1578194852160">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2379" y="58" width="981" height="707" key="SettingsEditor/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194852160" />
+    <state x="473" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1578194225572">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="473" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194225572" />
+  </component>
+</project>
