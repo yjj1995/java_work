@@ -76,5 +76,6 @@ jvm< jre < jdk
 1. 创建.java的文件
 2. javac对生成的文件进行编译
 3. 通过java 命令对生成的class 文件进行运行
-
+##########
+.java文件（源文件）——编译（javac.exe）——.class文件（字节码文件）——java.exe（运行）——结果
 

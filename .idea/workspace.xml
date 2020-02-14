@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086ec545-dd4e-4c6f-8f70-47df471e9fdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9fc69845-8a09-4797-aaad-836c21fa7de6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java_work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java笔记/day2.md" beforeDir="false" afterPath="$PROJECT_DIR$/java笔记/day2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,37 +17,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Yjj\.m2\repository" />
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="userSettingsFile" value="C:\Users\Yjj\.m2\settings.xml" />
-      </MavenGeneralSettings>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\java_work\.idea" />
+      </set>
     </option>
   </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="#JAVA_HOME" />
-    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  <component name="ProjectId" id="1Xmt8BmJN7jj5lbaX6qCe9dBkmX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="1VxU49D4zYTqvO4FJMYSWTW2xOn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java_work" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,56 +75,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="086ec545-dd4e-4c6f-8f70-47df471e9fdf" name="Default Changelist" comment="" />
-      <created>1578194045626</created>
+      <changelist id="9fc69845-8a09-4797-aaad-836c21fa7de6" name="Default Changelist" comment="" />
+      <created>1581662935398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578194045626</updated>
+      <updated>1581662935398</updated>
     </task>
-    <task id="LOCAL-00001" summary="Java_2020_1_5日提交">
-      <created>1578204188527</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1578204188527</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Java_2020_1_5日提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java_2020_1_5日提交" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="2150" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578194252603">
-      <screen x="1920" y="0" width="1549" height="831" />
-    </state>
-    <state x="2150" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194252603" />
-    <state x="2546" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578194067882">
-      <screen x="1920" y="0" width="1549" height="831" />
-    </state>
-    <state x="2546" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194067882" />
-    <state x="2344" y="0" key="CommitChangelistDialog2" timestamp="1578204187807">
-      <screen x="1920" y="0" width="1549" height="831" />
-    </state>
-    <state x="2344" y="0" key="CommitChangelistDialog2/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578204187807" />
-    <state x="2475" y="171" key="FileChooserDialogImpl" timestamp="1578194578805">
-      <screen x="1920" y="0" width="1549" height="831" />
-    </state>
-    <state x="2475" y="171" key="FileChooserDialogImpl/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578194578805" />
-    <state x="568" y="71" width="981" height="707" key="SettingsEditor" timestamp="1581651802173">
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581663239782">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="2379" y="58" width="981" height="707" key="SettingsEditor/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578204324915" />
-    <state x="568" y="71" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1581651802173" />
-    <state x="2287" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578204193867">
-      <screen x="1920" y="0" width="1549" height="831" />
-    </state>
-    <state x="2287" y="145" key="Vcs.Push.Dialog.v2/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578204193867" />
-    <state x="473" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1578204080225">
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1581663239782" />
+    <state x="618" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581663833915">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="473" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1578204080225" />
+    <state x="618" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1549.831@0.0.1549.831" timestamp="1581663833915" />
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1581663549454">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1581663549454" />
+    <state x="255" y="0" key="SettingsEditor" timestamp="1581663097358">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1581663097358" />
+    <state x="179" y="0" key="new project wizard" timestamp="1581663552046">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="179" y="0" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1581663552046" />
   </component>
 </project>
