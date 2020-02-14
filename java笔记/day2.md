@@ -66,13 +66,15 @@
 
 ## 什么是jre？jdk？
 ### 1. jre
-Jre 是java的运行环境 包含运行的核心类库 包含jvm
+Jre 是java的运行环境 包含运行的核心类库 包含jvm（java虚拟机）
 可以直接写java程序
 ### 2. jdk
 开发工具，包含jre 包含编译等等工具
 ![image-20200105110441842](C:\Users\Yjj\AppData\Roaming\Typora\typora-user-images\image-20200105110441842.png)
-
+jvm< jre < jdk
 ## 开发体验-hello world
 1. 创建.java的文件
-2. javac对生成的文件进行
-3. 
+2. javac对生成的文件进行编译
+3. 通过java 命令对生成的class 文件进行运行
+
+
