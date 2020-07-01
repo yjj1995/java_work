@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc69845-8a09-4797-aaad-836c21fa7de6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java_work.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java笔记/day2.md" beforeDir="false" afterPath="$PROJECT_DIR$/java笔记/day2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +39,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -92,14 +84,14 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="618" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1549.831@0.0.1549.831" timestamp="1581663833915" />
-    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1581663549454">
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1581664090518">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1581663549454" />
-    <state x="255" y="0" key="SettingsEditor" timestamp="1581663097358">
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1581664090518" />
+    <state x="255" y="0" key="SettingsEditor" timestamp="1581664001882">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1581663097358" />
+    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1581664001882" />
     <state x="179" y="0" key="new project wizard" timestamp="1581663552046">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
