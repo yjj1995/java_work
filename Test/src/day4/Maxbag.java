@@ -1,3 +1,5 @@
+package day4;
+
 public class Maxbag{
     static int n; //描述物品个数
     static int c; // 描述背包容量

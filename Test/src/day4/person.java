@@ -1,3 +1,5 @@
+package day4;
+
 import java.util.SplittableRandom;
 public class person {
 //    int i; 这样写不对

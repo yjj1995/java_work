@@ -1,3 +1,5 @@
+package day4;
+
 /**
  * 动物的类
  * @author yjj

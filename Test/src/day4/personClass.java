@@ -1,3 +1,5 @@
+package day4;
+
 /**
  * @author yjj
  */

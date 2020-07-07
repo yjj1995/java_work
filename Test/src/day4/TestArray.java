@@ -1,3 +1,5 @@
+package day4;
+
 public class TestArray {
     public static void main(String[] arg){
         int[] array1 = new int[]{2,3,5,7,11,13,17,19};

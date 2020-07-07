@@ -1,3 +1,5 @@
+package day4;
+
 /**
  * 文档注释
  * @author
